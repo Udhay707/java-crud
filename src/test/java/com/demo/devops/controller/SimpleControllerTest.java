@@ -28,4 +28,9 @@ class SimpleControllerTest {
     void getAllCountriesTest3() {
         Assertions.assertEquals(2, 1*2);
     }
+
+    @Test
+    void getAllCountriesTest4() {
+        Assertions.assertEquals(2, 1*2);
+    }
 }
